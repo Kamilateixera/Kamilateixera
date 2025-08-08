@@ -3,6 +3,16 @@
 
 ---
 
+### 👩‍💻 About Me
+
+Olá! Me chamo **Kamila**, sou desenvolvedora front-end com foco em criar interfaces modernas, acessíveis e responsivas.
+
+💡 Tenho interesse em aprender continuamente novas tecnologias e melhorar minhas habilidades tanto no front quanto no back-end.  
+🎓 Atualmente, estou me aprofundando em **TypeScript**, **Node.js** e **Python**.  
+🚀 Meu objetivo é evoluir como desenvolvedora full stack e participar de projetos que impactem positivamente a vida das pessoas.
+
+---
+
 ### 🛠️ Tech Stack
 
 <div align="left">
@@ -28,13 +38,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kamilateixera&show_icons=true&theme=transparent" alt="Kamila's GitHub stats" />
-</div>
-
----
 
 ### 🌐 Connect with me
 
